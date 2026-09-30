@@ -14,7 +14,7 @@ accounting for broad U.S. dollar moves?
 
 ## Data
 - Bank of Canada Valet API, daily rates (FXUSDCAD, FXEURCAD, FXGBPCAD, FXAUDCAD, FXJPYCAD)
-- Pulled by `fetch_data.py` on <date>. Re-run it to refresh.
+- Pulled by `fetch_data.py`. Re-run it to refresh.
 - Event dates and sources: see `docs/events.md` (each date linked to a primary source)
 
 ## Method
@@ -45,5 +45,4 @@ docs/        events.md, diagnostics.md, report.pdf
 ## Limitations
 <!-- Keep this honest and specific: confounding events, small samples, what a control cannot fix. -->
 
-## Author
-<Your name> | <LinkedIn> | Not affiliated with the Bank of Canada or Statistics Canada.
+Not affiliated with the Bank of Canada or Statistics Canada.
